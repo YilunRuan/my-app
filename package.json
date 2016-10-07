@@ -1,0 +1,17 @@
+{
+  "name": "my-app",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  	"start": "./node_modules/.bin/nodemon"
+  },
+  "dependencies": {
+    "koa": "^1.2.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "private": true,
+  "license": "UNLICENSED"
+}
